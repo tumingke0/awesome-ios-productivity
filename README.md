@@ -45,6 +45,7 @@ A curated list of iPhone and iPad **productivity** apps — document scanning & 
 - [Freedom](https://apps.apple.com/app/id1269788228) - Cross-platform blocker; subscription.
 - [Opal](https://apps.apple.com/app/id1497465230) - Screen-time and focus; subscription.
 - [LockHour Pro](https://apps.apple.com/app/id6780107485) - App blocker built on Apple's Screen Time API; on-device, **pay-once**, no subscription. Honest about Hard Mode limits. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/lockhour.html)
+- [Ripple (涟漪)](https://ripplefocus.github.io/) - Focus and parental screen-time app for iOS 16+ and Android. Uses FamilyControls / ManagedSettings (denyAppRemoval) on iPhone and Device Owner on Android so kids cannot uninstall or tweak the clock. Blocks Shorts, Reels, and WeChat Channels while leaving chat available. Local-only, no ads. Free IPA/APK sideload (not on the App Store yet).
 
 ## Notes
 
